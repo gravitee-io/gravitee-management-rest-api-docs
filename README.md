@@ -1,6 +1,6 @@
-# PCO API Docs
+# Management Rest API Docs
 
-Source for [PCO API docs](http://planningcenter.github.io/api-docs/) in the branch `gh-pages`.
+Source for Management Rest API Docs.
 
 ## How to Build
 
